@@ -37,4 +37,4 @@ O Lab foi fundamental para consolidar minha base em computação em nuvem. Com e
 
 **🔗 Repositório criado por:** Ricardo Rodrigues dos Santos  
 **🎓 Bootcamp:** DIO - Introdução à Computação em Nuvem  
-**💼 LinkedIn:** [linkedin.com/in/ricardorsantos](https://linkedin.com/in/ricardorsantos)  
+**💼 LinkedIn:** [linkedin.com/in/rrsantostech](https://linkedin.com/in/rrsantostech)  
