@@ -1,38 +1,40 @@
-# Resumo do Lab - DIO
+# Resumo do Lab - DIO: Fundamentos da Computação em Nuvem ☁️
 
-Este repositório contém um resumo das lições aprendidas durante o desenvolvimento do Lab na plataforma Digital Innovation One (DIO).
-
-## 🚀 O que eu aprendi
-
-Durante o Lab, explorei e aprendi os seguintes conceitos fundamentais:
-
-### 🔧 Git e GitHub
-- Criação e gerenciamento de repositórios.
-- Versionamento de código com Git.
-- Uso de comandos essenciais: `git init`, `add`, `commit`, `push`, `pull`, entre outros.
-- Criação e atualização de arquivos README.md.
-
-### 🌐 Lógica de Programação & Estrutura de Código
-- Noções básicas de lógica de programação.
-- Estruturação clara e organizada de projetos.
-- Identificação de boas práticas em organização de pastas e arquivos.
-
-### 🧠 Pensamento Lógico e Resolução de Problemas
-- Análise de desafios técnicos e desenvolvimento de soluções práticas.
-- Divisão de problemas em etapas menores para facilitar o entendimento e execução.
-
-### 📄 Documentação
-- A importância de documentar o código e o projeto.
-- Uso do Markdown para criar README eficazes e claros.
+Este repositório contém um resumo das principais lições aprendidas durante a realização do Lab da Digital Innovation One (DIO), focado nos conceitos fundamentais da computação em nuvem.
 
 ---
 
-## 💡 Conclusão
+## 🚀 Conteúdo Aprendido
 
-O Lab foi essencial para reforçar conhecimentos de versionamento, lógica e organização de projetos no GitHub. Estou cada vez mais preparado para desafios técnicos e para evoluir na minha carreira com uma base sólida em infraestrutura e desenvolvimento colaborativo.
+### 1. 💡 Introdução à Experiência XP
+- Compreensão da proposta de ensino baseada em experiências práticas (XP - eXPerience).
+- Navegação e estrutura das trilhas de aprendizado da DIO.
+- Importância da aprendizagem contínua e desenvolvimento prático de habilidades.
+
+### 2. ☁️ Introdução à Computação em Nuvem
+- Conceito e evolução da computação em nuvem.
+- Diferença entre computação local e em nuvem.
+- Apresentação dos principais modelos de serviço: IaaS, PaaS e SaaS.
+
+### 3. 🧠 Como a Computação em Nuvem Funciona
+- Funcionamento da nuvem e sua estrutura baseada em data centers distribuídos.
+- Conceitos de virtualização, escalabilidade e alta disponibilidade.
+- Visão geral sobre armazenamento, rede e processamento em nuvem.
+
+### 4. 📈 Benefícios da Computação em Nuvem
+- Redução de custos com infraestrutura física.
+- Aumento de produtividade e flexibilidade.
+- Maior segurança, backups automatizados e recuperação de desastres.
+- Facilidade de acesso remoto e colaboração em tempo real.
+
+---
+
+## 💬 Conclusão
+
+O Lab foi fundamental para consolidar minha base em computação em nuvem. Com esses conhecimentos, estou mais preparado para atuar em ambientes tecnológicos modernos, entender a lógica de serviços escaláveis e acompanhar tendências como migração para a nuvem e transformação digital.
 
 ---
 
 **🔗 Repositório criado por:** Ricardo Rodrigues dos Santos  
+**🎓 Bootcamp:** DIO - Introdução à Computação em Nuvem  
 **💼 LinkedIn:** [linkedin.com/in/ricardorsantos](https://linkedin.com/in/ricardorsantos)  
-
